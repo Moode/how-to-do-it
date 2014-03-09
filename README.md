@@ -16,20 +16,21 @@ Git Markdown
 
 前端技能汇总
 =========
-[Frontend Knowledge Structure](https://github.com/JacksonTian/fks) by JacksonTian
+*	[Frontend Knowledge Structure](https://github.com/JacksonTian/fks) by JacksonTian
+*	[CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
 
 
 Code Kata
 =========
 
-[1_武器的进化与OO.md](https://gist.github.com/jtong/deaf54d5f7d3a44825b1)
+*	[1_武器的进化与OO.md](https://gist.github.com/jtong/deaf54d5f7d3a44825b1)
 
-[#卡1# localhost:3001服务器下页面.md](https://gist.github.com/jtong/6697173)
+*	[#卡1# localhost:3001服务器下页面.md](https://gist.github.com/jtong/6697173)
 
-[https://github.com/jtong-kata/](https://github.com/jtong-kata/)
+*	[https://github.com/jtong-kata/](https://github.com/jtong-kata/)
 
 内功心法
 =========
 
-[AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
+*	[AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
 
