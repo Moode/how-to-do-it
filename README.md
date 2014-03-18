@@ -31,3 +31,7 @@
 
 *	[AngularJS Git Commit Message Conventions](https://docs.google.com/document/d/1QrDFcIiPjSLDn3EL15IJygNPiHORgU1_OOAqWjiDU5Y/edit)
 
+## 工具
+* 像素级页面调整
+	* [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/worddoc.html)
+
