@@ -17,6 +17,7 @@
 
 *	[Frontend Knowledge Structure](https://github.com/JacksonTian/fks) by JacksonTian
 *	[CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
+*	[w3cplus](http://www.w3cplus.com/)
 
 
 ## Code Kata
