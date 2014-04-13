@@ -15,9 +15,14 @@
 
 ## 前端技能汇总
 
+### overview
 *	[Frontend Knowledge Structure](https://github.com/JacksonTian/fks) by JacksonTian
-*	[CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
 *	[w3cplus](http://www.w3cplus.com/)
+
+### css
+*	[CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
+*	学习布局 <http://learnlayout.com/>
+
 
 
 ## Code Kata
