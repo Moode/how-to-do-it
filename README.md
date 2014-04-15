@@ -41,3 +41,7 @@
 * 像素级页面调整
 	* [AlloyDesigner](http://alloyteam.github.io/AlloyDesigner/worddoc.html)
 
+## 版本控制系统（VCS）
+### git && github
+* GitHub Cheat Sheet <https://github.com/tiimgreen/github-cheat-sheet>
+
