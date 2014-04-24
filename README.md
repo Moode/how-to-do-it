@@ -18,6 +18,7 @@
 ### overview
 *	[Frontend Knowledge Structure](https://github.com/JacksonTian/fks) by JacksonTian
 *	[w3cplus](http://www.w3cplus.com/)
+*	前端开发书签 <https://github.com/dypsilon/frontend-dev-bookmarks>
 
 ### css
 *	[CSS Guidelines](https://github.com/csswizardry/CSS-Guidelines)
